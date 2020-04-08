@@ -16,5 +16,5 @@ Here is an example of how that box looks just before the bot detects a black reg
 Here is a video demostrating the bot in working condition  
   
 <p align="center">
-<a href="https://youtu.be/KpgSdEEdHNE"><img src="https://img.youtube.com/vi/KpgSdEEdHNE/maxresdefault.jpg" width="50%"></img></a>
+<a href="https://youtu.be/f-tFjQJ12bU"><img src="https://img.youtube.com/vi/f-tFjQJ12bU/maxresdefault.jpg" width="50%"></img></a>
 </p>
