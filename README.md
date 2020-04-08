@@ -1,9 +1,9 @@
 # Bot_playing_T-Rex
 
-### Working
-I used *pyautogui* module of python to grab screenshots and crop a small part infront of T-Rex 
-and check for any black pixels in that region. I press *space* using *pyautogui* module as well.  
-The max score I have achived is only 400 because it still has problems keeping up with obtacles which are placed closly.  
+### Idea behind the project
+I saw a video where one used a aurdino setup with a servo moter and light detecting sensor(I guess) which checkes for obstacles and signals to the motor to press the space key and I imagied this can be done via software too!  
+So I used *pyautogui* module of python to grab screenshots and crop a small part infront of T-Rex 
+and check for any black pixels in that region. I press *space* using *pyautogui* module as well. The max score I have achived is only 400 because it still has problems keeping up with obtacles which are placed closly.  
 <p align='center'>
   <em>It ain't much, but its honest work</em>
 </p>
