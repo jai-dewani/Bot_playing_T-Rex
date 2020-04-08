@@ -8,7 +8,7 @@ and check for any black pixels in that region. I press *space* using *pyautogui*
   <em>It ain't much, but its honest work</em>
 </p>
 
-Here are some example of how that box looks just before the bot detects a black region and decides to jump   
+Here is an example of how that box looks just before the bot detects a black region and decides to jump   
   
 ![Image of T-Rex with the box](https://github.com/jai-dewani/Bot_playing_T-Rex/blob/master/Images/Image_1.png)
 
